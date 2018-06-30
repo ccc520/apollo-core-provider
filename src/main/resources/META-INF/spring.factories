@@ -1,0 +1,1 @@
+org.springframework.context.ApplicationContextInitializer=org.ccc520.foundation.providerImpl.ConfigUtilsEnhancer
